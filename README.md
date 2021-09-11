@@ -12,7 +12,7 @@
  </ul>
 </div>
 
- <div style="display: flex; flex-direction:row; justify-content: center;">
+ <div style="display: flex; flex-direction:row; justify-content: center; margin: auto;">
   <a href="https://github.com/natalia-lavarda">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=natalia-lavarda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-lavarda&layout=compact&langs_count=7&theme=dracula"/>
