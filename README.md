@@ -1,17 +1,13 @@
-<div style="margin: auto; display: block; text-align: center;">  
-<h2> Olá :) Eu sou a Natália Lavarda </h2>
+<h2> Olá : ) Muito prazer, eu sou a Natália </h2>
 <p>
-🔭 I’m currently working on ...<br>
-🌱 I’m currently learning ...<br>
-👯 I’m looking to collaborate on ...<br>
-🤔 I’m looking for help with ...<br>
-💬 Ask me about ...<br>
-📫 How to reach me: ...<br>
-😄 Pronouns: ...<br>
-⚡ Fun fact: ...
+✨ Sou estudande de Análise e Desenvolvimento de Sistemas e atualmente sou estagiária do Programa de Estágio Tech das Lojas Quero-Quero S/A.<br> 
+✨ Além disso, também sou aluna do bootcamp Todas em Tech da {reprograma} e do curso Novos Caminhos - Programador Web ofertado pelo PRONATEC.<br>
+✨ Sou apaixonada por arte e design, o que me faz ter grande afinidade com Front-End e UX/UI Design, áreas que direciono meus estudos e que estou trilhando minha carreira.<br>
+✨ Venho desenvolvendo projetos principalmente em HTML e CSS, realizando a prototipação das telas no Figma - poderia ficar uma tarde prototipando e fazendo telas, é algo que realmente me cativa muito e ativa minha criatividade - não vejo o tempo passar.<br>
+✨ Sinta-se à vontade para conferir meus repositórios e os projetos já desenvolvidos por mim. E se quiser conversar, pode me chamar em qualquer rede social! 🙋🏻
+
 </p>
 
-<div>
 <a href="https://github.com/natalia-lavarda">
 <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=natalia-lavarda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-lavarda&layout=compact&langs_count=7&theme=dracula"/>
