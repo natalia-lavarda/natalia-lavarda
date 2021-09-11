@@ -1,16 +1,15 @@
+<div style="margin: auto; display: block; text-align: center;">  
 <h2> Olá :) Eu sou a Natália Lavarda </h2>
-<div style="display: flex; flex-direction:column;">
- <ul style="list-style-type: none;">
-  <li>🔭 I’m currently working on ...</li>
-  <li>🌱 I’m currently learning ...</li>
-  <li> 👯 I’m looking to collaborate on ...</li>
-  <li> 🤔 I’m looking for help with ...</li>
-  <li> 💬 Ask me about ...</li>
-  <li> 📫 How to reach me: ...</li>
-  <li> 😄 Pronouns: ...</li>
-  <li> ⚡ Fun fact: ...</li>
- </ul>
-</div>
+<p>
+🔭 I’m currently working on ...<br>
+🌱 I’m currently learning ...<br>
+👯 I’m looking to collaborate on ...<br>
+🤔 I’m looking for help with ...<br>
+💬 Ask me about ...<br>
+📫 How to reach me: ...<br>
+😄 Pronouns: ...<br>
+⚡ Fun fact: ...
+</p>
 
 <div>
 <a href="https://github.com/natalia-lavarda">
@@ -41,3 +40,4 @@
    ![Snake animation](https://github.com/natalia-lavarda/natalia-lavarda/blob/output/github-contribution-grid-snake.svg)
 
  </div>
+</div>
