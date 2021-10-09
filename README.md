@@ -1,7 +1,7 @@
 <h2> Olá : ) Muito prazer, eu sou a Natália </h2>
 <p>
 ✨ Sou estudande de Análise e Desenvolvimento de Sistemas e atualmente sou estagiária do Programa de Estágio Tech das Lojas Quero-Quero S/A. Além disso, também sou aluna do bootcamp Todas em Tech da {reprograma} e do curso Novos Caminhos - Programador Web ofertado pelo PRONATEC.<br>
-✨ Sou apaixonada por arte e design, o que me faz ter grande afinidade com Front-End e UX/UI Design, áreas que direciono meus estudos e que estou trilhando minha carreira. Venho desenvolvendo projetos principalmente em HTML, CSS e JavaScript, realizando a prototipagem das telas no Figma - é algo que realmente me cativa muito e ativa minha criatividade. Sinta-se à vontade para conferir meus repositórios e os projetos já desenvolvidos por mim. E se quiser conversar, pode me chamar em qualquer rede social! 🙋🏻
+✨ Sou apaixonada por arte e design, o que me faz ter grande afinidade com Front-End e UX/UI Design, áreas que direciono meus estudos e que estou trilhando minha carreira. Venho desenvolvendo projetos principalmente em HTML, CSS e JavaScript, realizando a prototipagem das telas no Figma - algo que realmente me cativa muito e ativa minha criatividade. Sinta-se à vontade para conferir meus repositórios e os projetos já desenvolvidos por mim. E se quiser conversar, pode me chamar em qualquer rede social! 🙋🏻
 
 </p>
 
